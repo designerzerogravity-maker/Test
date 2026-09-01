@@ -15,3 +15,5 @@ Ask the agent in Chinese or English, for example:
 - 为“……”这个判断生成一张小黑怪诞正文配图
 
 Finished PNGs go to `assets/<article-slug>-illustrations/`.
+
+A first generated shot (switching from a generic clipart kit to this skill) is at `assets/xiaohei-skill-switch-illustrations/01-swap-the-illustration-kit.png`.
