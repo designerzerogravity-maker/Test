@@ -29,7 +29,7 @@ Cast (same look every frame):
 | 16 | 1:00–1:04 | 16-beat-china.png | Can you beat China? They play this at another level. | Tiny US/ELON generator vs CHINA megagrid |
 | 17 | 1:04–1:08 | 17-china-vs-three.png | China alone generates more electricity than the US + Europe + India. | Three small plugs vs one huge CHINA dam |
 | 18 | 1:08–1:12 | 18-fuel-no-engine.png | They have fuel, not the engine: semiconductors. | Full FUEL tank, empty CHIP engine bay |
-| 19 | 1:12–1:16 | 19-gap-closing.png | For how long? SMIC and Huawei are closing the gap. | Workers bolting a CHIP engine in; GAP shrinking |
+| 19 | 1:12–1:16 | 19-gap-closing.png | For how long? SMIC and Huawei are closing the gap. | Clean-room placing a wafer onto a data-center GPU; China server rack filling vs US |
 | 20 | 1:16–1:20 | 20-real-game-comment.png | It's grid, transformers, turbines, permits — not models. Comment: US power first, or China chips first? | Hardware pile vs crossed-out MODELS; two clocks |
 
 Edit: trim VO to ~1:18 in the cut. Hold 20 on the comment beat.
