@@ -50,3 +50,4 @@ Cast (same look every frame):
 | 34 | 2:12 | 34-threat-not-magic.png | This is not "AI is harmless." Impact is real. Don't ignore it. Don't worship every prediction. | Real impact vs hype siren |
 | 35 | 2:16 | 35-behind-thinking.png | When someone says "AI is thinking," this is what's behind the scenes. | Curtain: knobs, not a mind |
 | 36 | 2:20 | 36-fake-agi.png | Real AGI — nobody knows when. Before it, ten fake AGIs will arrive and die. Stay ready. Have your own judgment. | Fake AGI graves vs far REAL AGI |
+| — | after 22 | 37-complex-human-neuron.png | A real neuron is a living cell: chemicals, signals, thousands of connections — not a math box. | Close-up of a messy biological neuron |
