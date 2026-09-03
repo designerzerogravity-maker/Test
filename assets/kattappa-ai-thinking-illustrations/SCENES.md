@@ -55,3 +55,4 @@ Cast (same look every frame):
 | — | after 18 | 39-rsi-human-locked-out.png | RSI: the model improves itself. Humans are locked out. No intervention. | AI self-loop; humans behind a padlock |
 | — | after 18 | 40-rsi-vault-locked-out.png | Same idea, second metaphor: sealed vault, bigger copies, humans jailed outside. | Vault RSI; DO NOT INTERVENE |
 | — | after 19 | 41-superintelligence-nvidia-gpus.png | Superintelligence wired into a rack of NVIDIA GPUs. SSI. | Blob plugging GPUs into SUPERINTELLIGENCE |
+| — | after 23 | 42-brain-memory-chemicals.png | Insanely complex brain: memory traces plus chemicals. We don't fully know. | Brain cutaway with MEMORY and CHEMICALS |
