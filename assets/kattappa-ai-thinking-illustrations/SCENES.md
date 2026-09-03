@@ -52,3 +52,4 @@ Cast (same look every frame):
 | 36 | 2:20 | 36-fake-agi.png | Real AGI — nobody knows when. Before it, ten fake AGIs will arrive and die. Stay ready. Have your own judgment. | Fake AGI graves vs far REAL AGI |
 | — | after 22 | 37-complex-human-neuron.png | A real neuron is a living cell: chemicals, signals, thousands of connections — not a math box. | Close-up of a messy biological neuron |
 | — | after 17 | 38-brain-updates-from-experience.png | Your brain keeps rewriting itself as you live: rain, people, mistakes, school — always updating. | Complex brain taking in experiences |
+| — | after 18 | 39-rsi-human-locked-out.png | RSI: the model improves itself. Humans are locked out. No intervention. | AI self-loop; humans behind a padlock |
