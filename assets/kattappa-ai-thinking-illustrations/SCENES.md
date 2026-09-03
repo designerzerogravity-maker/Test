@@ -58,3 +58,4 @@ Cast (same look every frame):
 | — | after 23 | 42-brain-memory-chemicals.png | Insanely complex brain: memory traces plus chemicals. We don't fully know. | Brain cutaway with MEMORY and CHEMICALS |
 | — | after 31 | 43-feeling-vs-ai-pattern.png | For a human, a feeling is a feeling. For AI it's a pattern, relationships encoded in computation. | Human heart vs AI graph |
 | — | after 33 | 44-ai-predictions-confusing.png | Conflicting AI predictions confuse a person: end humans vs create jobs vs AGI next year. | Hail of headlines; WHO TO BELIEVE? |
+| — | after 27 | 45-large-language-model.png | An LLM: tokens in, stacked layers, parameters, next token out. | Industrial next-token machine |
